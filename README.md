@@ -12,4 +12,5 @@
 * HTML 5
 * CSS 3
 * CSS Flexbox
+* Media Queries
 * JavaScript ES6
